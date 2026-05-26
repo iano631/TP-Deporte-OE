@@ -1,0 +1,13 @@
+# Archivos temporales en Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints
+.ipynb_checkpoints/
+
+# Archivos log
+*.log
+
+# Archivos para datos pesados
+*.xlsx
+*.zip
