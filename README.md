@@ -1,7 +1,7 @@
-# TP Gestión Colaborativa — Análisis de Resultados Deportivos
+# TP-OE Gestión Colaborativa — Análisis de Resultados Deportivos
 
 ## Escenario
-**Escenario D – Estadísticas de Resultados Deportivos**  
+**Escenario D – Estadísticas de Resultados Deportivos**
 El análisis de los resultados de un campeonato falso para crear estadísticas de ese torneo.
 
 ## Dataset
